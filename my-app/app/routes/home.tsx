@@ -18,7 +18,7 @@ export default function Home() {
       <header className="bg-gradient-to-br from-gray-800 to-purple-600 text-gray-100 py-36 text-center mt-16">
         <div className="max-w-7xl mx-auto px-5">
           <div>
-            <h1 className="text-5xl mb-5">Your Name</h1>
+            <h1 className="text-5xl mb-5">Raul Gage Portfolio</h1>
             <p className="text-xl max-w-2xl mx-auto">
               Full Stack Developer | UI/UX Enthusiast | Problem Solver
             </p>
