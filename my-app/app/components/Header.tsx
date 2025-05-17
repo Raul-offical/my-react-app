@@ -5,7 +5,7 @@ export default function Header() {
     <nav className="bg-gray-800 py-4 fixed w-full top-0 z-50 shadow-lg">
       <div className="max-w-7xl mx-auto px-5 flex justify-between items-center">
         <Link to="/" className="text-gray-100 text-2xl font-bold no-underline">
-          Raul Gage Portfolios
+          Raul Gage Portfolio
         </Link>
         <div className="flex gap-8">
           <Link
