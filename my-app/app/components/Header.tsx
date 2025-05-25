@@ -7,7 +7,7 @@ export default function Header() {
         <Link to="/" className="text-gray-100 text-2xl font-bold no-underline">
           Raul Gage Portfolio
         </Link>
-        <div className="flex gap-8">
+        <div className="flex gap-10">
           <Link
             to="/"
             className="text-gray-100 no-underline hover:text-blue-500 transition-colors"
